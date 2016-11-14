@@ -7,6 +7,7 @@ Combine multiple RTF files into one
 
 This approach is alternative approach to SAS PROC DOCUMENT.
 
+Detailed steps, please refer to document "合并多个RTF文件转换成PDF并添加书签.docx".
 
 
 
