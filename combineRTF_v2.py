@@ -8,7 +8,7 @@
 #
 # Created:     06/08/2016
 # Copyright:   (c) john-dell 2016
-# Licence:     <your licence>
+# Licence:     MIT LICENSE
 #-------------------------------------------------------------------------------
 
 
